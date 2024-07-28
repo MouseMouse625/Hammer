@@ -1,0 +1,1 @@
+This is a model of a hammer in CAD. There are .STEP and .STL files for normal use, and .GLB/.GLTF files for textures.
